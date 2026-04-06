@@ -76,9 +76,6 @@
   <a href="https://www.linkedin.com/in/shivang-sharma-122983237/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="shivang63501@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-  </a>
 </p>
 
 ---
