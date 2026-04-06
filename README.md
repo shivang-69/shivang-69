@@ -1,57 +1,111 @@
-Hi 👋, I'm Shivang Sharma
-🚀 DSA Enthusiast | Backend Developer | Problem Solver
+<!-- Typing Animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Shivang+Sharma;Backend+Developer+🚀;DSA+Enthusiast+💻;Problem+Solver+🔥">
+</p>
+
+---
+
+# 👨‍💻 Shivang Sharma
+
+🚀 **Backend Developer | DSA Enthusiast | Problem Solver**
+
+---
+
+## 🌟 About Me
+
+🎓 B.Tech CSE (2023–2027)
+💡 Passionate about **Data Structures, Algorithms & Backend Development**
+📈 Solved **200+ DSA problems** (and growing daily)
+🎯 Targeting **product-based companies & internships**
+⚡ Love building **real-world scalable systems**
+
+---
+
+## 🚀 Current Focus
+
+* 📚 Mastering **DSA**
+* 🚗 Building **Car Rental Backend (Ola/Uber-like)**
+* 🌐 Learning **Node.js, Express, APIs, DBMS**
+* 🧠 Strengthening **problem-solving skills**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge\&logo=python)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge\&logo=express)
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+
+### 🌐 Frontend
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge\&logo=visualstudiocode)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivang-69&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivang-69&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivang-69&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/shivang-69/shivang-69/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💬 *I enjoy solving complex problems and turning them into simple solutions.* 🚀
 
 
-🌟 About Me
-🎓 B.Tech CSE (2023–2027) | 6th Semester
-💡 Focused on Data Structures, Algorithms & Backend Development
-🚀 Building real-world scalable backend systems
-📈 Solved 50+ DSA problems (growing daily)
-🎯 Preparing for product-based companies & internships
-🌱 Currently Working On
-🔥 Mastering DSA Patterns (Striver A2Z)
-⚙️ Developing Car Rental Backend (Ola/Uber-like)
-🌐 Learning Node.js, Express, APIs, DBMS
-📚 Improving problem-solving & logic building
-🧠 Languages & Technologies
-
-
-⚙️ Frameworks & Tools
-
-
-🧩 Core Skills
-   
-
-🌟 Featured Projects
-🔹 Car Rental Backend System
-🚀 Backend similar to Ola/Uber
-
-REST APIs for users, bookings, vehicles
-JWT Authentication & DB integration
-Scalable backend architecture
-🔹 Movie Recommendation System
-🎬 Content-based filtering
-
-Processed 5000+ data entries
-Built similarity-based engine
-Optimized recommendations
-🔹 LeetCode Progress Tracker
-📊 Practicing DSA consistently
-
-Arrays, Recursion, Sliding Window, Sorting
-Focus on pattern-based learning
-📊 GitHub Dashboard
 
 
 
 
-
-
-🏆 GitHub Achievements
-
-
-📫 Connect With Me
-  
-
-⚡ Fun Fact
-💡 I focus on patterns over problems — that's how I grow faster 🚀
