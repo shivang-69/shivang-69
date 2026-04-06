@@ -62,15 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivang-69&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivang-69&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
